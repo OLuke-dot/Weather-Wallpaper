@@ -7,7 +7,7 @@ Ctypes module required, for installing just use <i>pip install ctypes</i> for Wi
 This program works in the background and every 15 minutes it downloads new data, compares it with the previous one, and if the weather changed, it adjust the proper wallpaper on your screen. Images are being taken from a wallpaper folder, placed next to the program. <br><br>
 <t>The data being extracted are just a main string describing weather outside. This name is then used to load up wallpaper. For example, if the weather outside is "Cloudy", the program will be looking for a "cloudy.jpg" file in the folder. For night time, program adds "_night" in the name of the file ("clouds_night.jpg"). Full list of possible names will be added here later
 ## Getting API Key
-For program to work, you will need an API key from openweather website.
+For program to work, you will need an API key from openweather website. The other variable which is important is a city, where, obviously, you place a city where you want to check a weather
 * go to https://openweathermap.org/
 * Sign up, or create your account
 * While in your profile, go to <i>API Keys tab</i>
