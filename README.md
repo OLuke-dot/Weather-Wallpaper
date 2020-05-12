@@ -22,3 +22,34 @@ If you want weather app to work in the background while windows is starting, fol
 * Paste your shortcut here
 
 Now every time you will boot up Windows, program will automatically start in the background
+## Full list of wallpaper nametags
+Below is a ful list of all supported nametags, based on openweather informations. In order to assign wallpaper to a proper condition, rename JPEG file into its nametag.
+
+* wallpaper - basic one
+* clear
+* clear_night
+* clouds
+* clouds_night
+* rain
+* rain_night
+* snow
+* snow_night
+* drizzle
+* drizzle_night
+* thunderstorm
+* thunderstorm_night
+* mist
+* mist_night
+* smoke
+* smoke_night
+* haze
+* haze_night
+* dust
+* dust_night
+* ash - volcanic ash
+* ash_night
+* squall
+* squall_night
+* tornado
+* tornado_night
+
